@@ -1,3 +1,3 @@
-function sayHello() {
-    return "Hello, World!";
+function multiply(a, b) {
+    return a * b;
 }
